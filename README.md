@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-js
-# just learn the full beginners javascript
+Just have the knowledge of basic conditional statements in JavaScript.
